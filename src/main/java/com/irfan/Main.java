@@ -1,7 +1,9 @@
 package com.irfan;
 
+import static com.irfan.Rusak.rusak;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        rusak(1000); // 1994
     }
 }
